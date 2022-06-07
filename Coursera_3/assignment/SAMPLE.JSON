@@ -1,0 +1,74 @@
+{
+    "results" : [
+       {
+          "address_components" : [
+             {
+                "long_name" : "#300",
+                "short_name" : "#300",
+                "types" : [ "subpremise" ]
+             },
+             {
+                "long_name" : "4001",
+                "short_name" : "4001",
+                "types" : [ "street_number" ]
+             },
+             {
+                "long_name" : "700 East",
+                "short_name" : "700 E",
+                "types" : [ "route" ]
+             },
+             {
+                "long_name" : "Millcreek",
+                "short_name" : "Millcreek",
+                "types" : [ "locality", "political" ]
+             },
+             {
+                "long_name" : "Salt Lake County",
+                "short_name" : "Salt Lake County",
+                "types" : [ "administrative_area_level_2", "political" ]
+             },
+             {
+                "long_name" : "Utah",
+                "short_name" : "UT",
+                "types" : [ "administrative_area_level_1", "political" ]
+             },
+             {
+                "long_name" : "United States",
+                "short_name" : "US",
+                "types" : [ "country", "political" ]
+             },
+             {
+                "long_name" : "84107",
+                "short_name" : "84107",
+                "types" : [ "postal_code" ]
+             }
+          ],
+          "formatted_address" : "4001 700 E #300, Millcreek, UT 84107, USA",
+          "geometry" : {
+             "location" : {
+                "lat" : 40.684929,
+                "lng" : -111.8699469
+             },
+             "location_type" : "ROOFTOP",
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.6863415802915,
+                   "lng" : -111.8688200197085
+                },
+                "southwest" : {
+                   "lat" : 40.6836436197085,
+                   "lng" : -111.8715179802915
+                }
+             }
+          },
+          "partial_match" : true,
+          "place_id" : "ChIJBVZvCm6KUocRoh4bYfH-h2M",
+          "plus_code" : {
+             "compound_code" : "M4MJ+X2 Millcreek, UT",
+             "global_code" : "85GCM4MJ+X2"
+          },
+          "types" : [ "establishment", "point_of_interest", "university" ]
+       }
+    ],
+    "status" : "OK"
+ }
